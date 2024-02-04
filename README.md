@@ -45,6 +45,7 @@ This project involves the implementation of a computerized digital system for im
      - Instantiates and connects all the modules.
 
 ## How to Use
+![plot](./DocMe/Smi1.png)
 1. Generate binary code from a black-and-white image using the Python script.
 2. Create ROM and RAM IP cores using the generated ".coe" file.
 3. Implement the Verilog modules and instantiate the main module.
